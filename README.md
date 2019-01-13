@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 Video Walkthrough:
 https://imgur.com/a/jqs4471
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/jqs4471"><a title= "Video Walkthrough" href="//imgur.com/jqs4471"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<a title= "Video Walkthrough" href="//imgur.com/jqs4471"></a></blockquote>
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
